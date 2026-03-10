@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sameer%20Bukhari&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%40%20York%20College%20CUNY&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Profile Views & Socials -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=bukharisam&label=Profile%20Views&color=6c63ff&style=for-the-badge" alt="profile views" />
   <a href="https://linkedin.com/in/syed100">
@@ -19,31 +17,17 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at York College CUNY with a passion for building modern, scalable web applications from the ground up. I work across the full stack, from crafting clean, responsive user interfaces to designing the backend logic and databases that power them.
+I'm a Computer Science student at York College CUNY who genuinely enjoys building things for the web. I like working across the full stack, whether that's putting together a clean UI or figuring out the backend logic and database structure that makes everything run.
 
-Currently deepening my expertise in **Data Structures**, **Algorithm Design**, and **AI/LLM integration** while building production-grade projects that solve real problems. My goal is to secure a **Software Engineering Internship for Summer 2027** and grow into a world-class engineer.
-
-When I'm not coding, I'm working at the **Empire State Building** as a SOC Operator — one of New York City's most iconic landmarks.
+Right now I'm focused on sharpening my skills in Data Structures, Algorithm Design, and AI/LLM development through both my coursework and real projects. My goal is to land a Software Engineering Internship for Summer 2027 and keep growing as an engineer.
 
 - 🔭 Currently building **[Sam's Hot Chicken](https://github.com/Bukharisam/Sams-hot-chicken)** — a full-stack halal hot chicken restaurant web app
 - 🌱 Learning **Data Structures, Algorithm Design & Analysis, and AI/LLM development**
 - 💬 Ask me about **React, TypeScript, Supabase, and JavaScript**
 - 📫 Reach me at **sameer.bukhari@yorkmail.cuny.edu**
 - ⚡ Fun fact: **I work at the Empire State Building and build software in my free time**
-
----
-
-## 🚀 Featured Project
-
-<a href="https://github.com/Bukharisam/Sams-hot-chicken">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bukharisam&repo=Sams-hot-chicken&theme=tokyonight&hide_border=true" />
-</a>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -54,6 +38,7 @@ When I'm not coding, I'm working at the **Empire State Building** as a SOC Opera
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -62,20 +47,9 @@ When I'm not coding, I'm working at the **Empire State Building** as a SOC Opera
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bukharisam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukharisam&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bukharisam&theme=tokyonight&hide_border=true" />
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
